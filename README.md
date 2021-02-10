@@ -1,5 +1,5 @@
-(setq markdown-css-paths '("./style.css"))
-# Hi there 👋
+
+# <span style="color:#ccc">Hi there 👋</span>
 
 <!--
 **hoangphunam0604/hoangphunam0604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
